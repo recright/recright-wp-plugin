@@ -1,0 +1,53 @@
+.recright-feed-admin textarea {
+	resize: both;
+	min-width: 400px;
+	max-width: 600px;
+	min-height: 100px;
+}
+.recright-feed-admin .form-table th {
+	width: 150px;
+}
+.recright-feed-admin .form-table textarea.recright-feed-template_loop {
+	min-height: 240px;
+}
+.recright-feed-admin .form-table input.recright-feed-feed_url {
+	width: 400px;
+}
+.recright-feed-admin .form-table label span {
+	display: block;
+}
+.recright-feed-admin .recright-feed-log {
+	display: block;
+}
+.recright-feed-admin .recright-feed-log h2 {
+	margin-bottom: 33px;
+}
+.recright-feed-admin .recright-feed-log a {
+	font-size: 0.8em;
+	display: inline-block;
+	margin-left: 6px;
+}
+.recright-feed-admin .recright-feed-log textarea {
+	font-family: 'Courier New', Courier, Arial;
+	min-width: 600px;
+	max-width: 800px;
+	min-height: 200px;
+}
+.recright-feed-admin .recright-feed-variables {
+	display: block;
+	max-width: 400px;
+}
+.recright-feed-admin .recright-feed-variables h4 {
+	margin-bottom: 0px;
+}
+.recright-feed-admin .recright-feed-variables button {
+	margin: 8px 8px 0px 0px;
+	cursor: pointer;
+}
+.recright-feed-admin .recright-feed-refresh {
+	padding-top: 20px;
+}
+.recright-feed-admin .recright-feed-refresh > * {
+	vertical-align: middle;
+	margin-right: 5px;
+}
