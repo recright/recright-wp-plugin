@@ -13,7 +13,7 @@ See beyond the CV and start making confident hiring decisions.
 
 **Hire the right person, the right way, right now**
 
-RecRight is a video recruitment platform that helps you and your hiring team speed up the entire recruitment 
+[RecRight](https://www.recright.com/) is a video recruitment platform that helps you and your hiring team speed up the entire recruitment 
 process so you can focus less on admin, and more on people. While traditional screening methods are time-consuming 
 and ineffective, using video in recruitment empowers you to find the right people faster. 
 

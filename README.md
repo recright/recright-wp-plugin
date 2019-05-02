@@ -1,10 +1,12 @@
 # RecRight Jobs Wordpress plugin
 
-RecRight is a video recruitment platform that helps you and your hiring team speed up the entire recruitment 
+[RecRight](https://www.recright.com/) is a video recruitment platform that helps you and your hiring team speed up the entire recruitment 
 process so you can focus less on admin, and more on people. While traditional screening methods are time-consuming 
 and ineffective, using video in recruitment empowers you to find the right people faster. 
 
 With this plugin you get your position listing to your Wordpress site. Using provided shortcode you can freely place the listing where you want on your site.
+
+For more information about RecRight see our [website](https://www.recright.com/)
 
 ## How to install
 
@@ -19,3 +21,5 @@ Under RecRight Jobs-plugin click ​Settings. On the Settings page enter the URL
 Enter the shortcode ​[recright-feed]​ where you want the feed to be displayed.
 
 You can now test the feed on the page where you have entered the shortcode. The plugin will display in its default layout. Optionally you can edit the “Template CSS” and “Template Loop” fields to modify the layout to be exactly the way you want it.
+
+If you need any help please check out our [support](https://support.recright.com)
